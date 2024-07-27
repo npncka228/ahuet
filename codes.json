@@ -1,0 +1,24 @@
+{
+    "ZM-sQmB5": {
+        "Date": "2023-04-04T17:37:11.372Z",
+        "uid": "001",
+        "name": "nefr",
+        "days": "100",
+        "premium": "true",
+        "scripts": "true"
+    },
+    "ZM-d0jiC": {
+        "name": "nefr",
+        "uid": "002",
+        "days": "30",
+        "premium": "false",
+        "scripts": "false"
+    },
+    "ZM-ozUc6": {
+        "name": "zalupa",
+        "uid": "003",
+        "days": "30",
+        "premium": "false",
+        "scripts": "false"
+    }
+}
